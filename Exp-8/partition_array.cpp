@@ -1,4 +1,3 @@
-
 class Solution {
 public:
     int solve(int i, vector<int>& arr, int k, vector<int>& dp) {
